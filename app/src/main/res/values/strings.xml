@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Colorio</string>
+
+    <string name="generator">generator</string>
+    <string name="collection">collection</string>
+    <string name="extractor">extractor</string>
 </resources>
